@@ -13,6 +13,7 @@
 }
 body{
   color: var(--third-color);
+  max-width: 100%;
 }
 
 /* NAVBAR */
@@ -153,4 +154,10 @@ width: 7rem;
 .fondo-recetas{
   background-image: url(../img/Fondo/COCINA\ INICIO.png);
   background-attachment: fixed;
+}
+
+iframe {
+ 
+  width: 100%;
+  
 }
